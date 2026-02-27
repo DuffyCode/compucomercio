@@ -1,0 +1,22 @@
+/* 
+  Variables globales de estilo para CompuComercio.
+  Define colores, tipografías y breakpoints usados por componentes.
+*/
+
+$color-primario: #0d6efd;
+$color-secundario: #06b6d4;
+$color-texto: #111827;
+$color-fondo: #f3f4f6;
+$color-exito: #10b981;
+$color-error: #ef4444;
+$color-acento: #f59e0b;
+
+$shadow-sm: 0 1px 3px rgba(17,24,39,0.06);
+$shadow-md: 0 6px 18px rgba(17,24,39,0.12);
+
+$radius-sm: 6px;
+$radius-md: 12px;
+
+$breakpoint-sm: 600px;
+$breakpoint-md: 900px;
+$breakpoint-lg: 1200px;
